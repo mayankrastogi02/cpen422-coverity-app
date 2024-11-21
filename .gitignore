@@ -36,3 +36,9 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+### cov-int ###
+cov-int/
+
+### coverity buld tar ###
+*.tgz
